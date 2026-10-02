@@ -89,7 +89,7 @@ Remote-SSH: Connect to Host...
 Select:
 
 ```
-10.0.5.30
+(...)
 ```
 
 If prompted for the operating system, select:
@@ -103,7 +103,7 @@ Enter your SSH password.
 After a successful connection, the bottom-left corner of VS Code should display:
 
 ```
-SSH: 10.0.5.30
+SSH: (...)
 ```
 
 ---
@@ -269,7 +269,7 @@ deactivate
 Click the green SSH indicator in the bottom-left corner:
 
 ```
-SSH: 10.0.5.30
+SSH: (...)
 ```
 
 Select:
